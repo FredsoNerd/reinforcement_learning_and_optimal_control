@@ -1,0 +1,2 @@
+# reinforcement_learning_and_optimal_control
+Studies in Reinforcement Learning and Optimal Control
