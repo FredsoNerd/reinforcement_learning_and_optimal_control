@@ -40,7 +40,8 @@ Here, we describe some of the work done and meetings to come:
 ## Examples and Libraries
 
 In the `examples` folder, one can find some of the working code examples:
-	* `gymnasium_mountain_car`: we work on a classic problem from [Gymnasium](https://gymnasium.farama.org/), the [Mountain Car](https://gymnasium.farama.org/environments/classic_control/mountain_car/) problem.
+
+* `examples/gymnasium_mountain_car`: we work on a classic problem from [Gymnasium](https://gymnasium.farama.org/), the [Mountain Car](https://gymnasium.farama.org/environments/classic_control/mountain_car/) problem.
 
 For the examples, we use the [python Gymnasium](https://pypi.org/project/gymnasium/) library, along with some basic numeric and scientific libraries. One is advised to install the dependencies and run our examples in a [virtual environment](https://docs.python.org/3/library/venv.html).
 
