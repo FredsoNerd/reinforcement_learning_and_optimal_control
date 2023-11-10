@@ -23,13 +23,14 @@ We describe some of the work done and meetings to come:
 	* Discrete Aproximation with Q-Learning from [video](https://www.youtube.com/watch?v=_SWnNhM5w-g)
 * **10/26/23**: 
 	* Reading: Daniel Liberzon, Chap 6
-	* The Linear Quadratic Regulator
-	* Riccati differential equation
+	* The Linear Quadratic Regulator (LQR)
+	* Riccati differential equation (RDE)
 * **10/31/23**: 
 	* Optimal Control Group Meeting
 	* Reading: [Neural ODE control for classification, approximation and transport](https://doi.org/10.1137/21M1411433)
 * **11/07/23**:
-	* Reading: [Calculus of Variations and Optimal Control Theory - A Concise Introduction](http://liberzon.csl.illinois.edu/teaching/cvoc.pdf)
+	* Reading: Daniel Liberzon, Chap 5
+	* The Hamilton-Jacobi-Belman (HJB) equation
 * **11/09/23**: 
 	* Optimal Control Group Meeting
 	* Reading: [Neural ODE control for classification, approximation and transport](https://doi.org/10.1137/21M1411433)
